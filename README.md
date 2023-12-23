@@ -1,6 +1,6 @@
 # ¡Hola, soy Lidia Alicia!
 
-## Desarrolladora web apasionada y mentora con experiencia diversa, integro creatividad pedagógica con habilidades técnicas
+### Desarrolladora web apasionada y mentora con experiencia diversa, integro creatividad pedagógica con habilidades técnicas.
 
 ## 👩‍💻 Acerca de mí:
 
