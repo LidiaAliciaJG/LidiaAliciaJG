@@ -10,9 +10,9 @@ Me motiva construir tecnología con propósito social, impulsar el aprendizaje d
 ## 👩‍💻 Mi experiencia y enfoque
 
 - 🚀 Más de 3 años de experiencia en el mundo EdTech como mentora y coordinadora académica.
-- 💻 Desarrollo de sitios webs y apps con **HTML, CSS, JavaScript, Node.js, Python, etc**.
+- 💻 Desarrollo de sitios webs y apps con **HTML, TailwindCSS, JavaScript, Next.js, Node.js, Python, etc**.
 - 🛠 Automatización de procesos administrativos con **Google Apps Script y Google Workspace**.
-- 🎮 Diseño de experiencias educativas de programación usando **Python, Unity, Roblox, Scratch, Blender** y herramientas de RV e IA.
+- 🎮 Diseño de experiencias educativas de programación usando **Python, Unity, Roblox, Scratch, Blender y herramientas de RV e IA**.
 - 🔁 Aplicación de metodologías ágiles para la planificación y entrega de proyectos funcionales.
 - 🎯 Participación activa en proyectos que combinan **programación, educación y diseño digital**.
 
